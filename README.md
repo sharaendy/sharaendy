@@ -28,3 +28,4 @@ I’m currently learning JavaScript & React and interested in Frontend developme
 
 [![Sharaendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharaendy&hide=stars,contribs&show_icons=true)](https://github.com/sharaendy/github-readme-stats)
 
+###### ![](https://www.codewars.com/users/sharaendy/badges/large)
