@@ -3,9 +3,6 @@
 My name is Andrew. 
 I’m currently learning JavaScript & React and interested in Frontend development.
 
-- :white_check_mark: Looking for a junior developer position or traineeship
-- :white_check_mark: Ready to work remotely or relocate
-
 ------
 
 ### 💻 Tech Stack:
